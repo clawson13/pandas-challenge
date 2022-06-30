@@ -1,12 +1,12 @@
-# Pandas Homework : PyCitySchools
+PyCitySchools
 
-Homework for Boot Camp Week 4: Pandas; Submitted by Corey Lawson-Enos
+Prepared by Corey Lawson-Enos
 
 ## Summary
 PyCitySchools: Pandas script that compares summary district and school size, budget, and type information against student test performance in math and reading. Subject represents a school district of fifteen high schools: approximately 39,000 students, and $25 million budget. 
 
 ## Technologies
-Pandas, Jupyter Notebook
+Pandas, NumPy, Jupyter Notebook
 
 ## Additional Analysis
 District-wide test performance shown at 75% for math proficiency, 86% for reading, and 65% overall for both math and reaching achievement. Of note:
