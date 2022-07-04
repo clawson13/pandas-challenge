@@ -19,3 +19,7 @@ District-wide test performance shown at 75% for math proficiency, 86% for readin
 ![alt text](https://github.com/clawson13/pandas-challenge/blob/main/PyCitySchools/images/scores_by_size.jpg?raw=true)
 
 ![alt text](https://github.com/clawson13/pandas-challenge/blob/main/PyCitySchools/images/scores_by_type.jpg?raw=true)
+
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
